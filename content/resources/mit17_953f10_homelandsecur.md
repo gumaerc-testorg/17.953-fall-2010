@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c7fe115d-d6a2-0ea0-34ef-69c56c8dcee9
 resourcetype: Document
 title: U.S. Budgets for Homeland Security
 uid: e14fb028-98b7-71be-8c06-49be6dad3d55

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c7fe115d-d6a2-0ea0-34ef-69c56c8dcee9
 resourcetype: Document
 title: U.S. National Security Budgets in Context
 uid: 6cfaeebf-bc75-017c-e9cb-d8ca0cb2d72c

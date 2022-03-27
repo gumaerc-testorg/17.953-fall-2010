@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c7fe115d-d6a2-0ea0-34ef-69c56c8dcee9
 resourcetype: Document
 title: Planning and Budgeting for Defense
 uid: 20eed8d2-0626-e3b8-3415-2d37ede3396d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c7fe115d-d6a2-0ea0-34ef-69c56c8dcee9
 resourcetype: Document
 title: Defense Budget Composition and Internal Pressures
 uid: 0897c54e-4b30-c4ad-191e-a424cca8b1d1
