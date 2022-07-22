@@ -7,6 +7,7 @@ file: /courses/17-953-u-s-budgets-for-national-security-fall-2010/20eed8d20626e3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Planning and Budgeting for Defense
 uid: 20eed8d2-0626-e3b8-3415-2d37ede3396d
 ---
 Lecture presentation on planning and budgeting for defense, an overview of the players , the process in DoD, the players in the White House, and the process in Congress.
-

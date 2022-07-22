@@ -6,6 +6,7 @@ file: /courses/17-953-u-s-budgets-for-national-security-fall-2010/0897c54e4b30c4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ uid: 0897c54e-4b30-c4ad-191e-a424cca8b1d1
 ---
 Lecture presentation on the composition of the Department of Defense budget, and internal pressures on future budgets for national 
 defense.
-

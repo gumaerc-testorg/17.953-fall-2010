@@ -7,6 +7,7 @@ file: /courses/17-953-u-s-budgets-for-national-security-fall-2010/6cfaeebfbc7501
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: U.S. National Security Budgets in Context
 uid: 6cfaeebf-bc75-017c-e9cb-d8ca0cb2d72c
 ---
 Lecture presentation on the U.S. budget for national defense, national defense budget in perspective, total U.S. federal budgets for security and foreign affairs, and economic and fiscal pressures on future budgets for national defense.
-

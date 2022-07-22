@@ -7,6 +7,7 @@ file: /courses/17-953-u-s-budgets-for-national-security-fall-2010/e14fb02898b771
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: U.S. Budgets for Homeland Security
 uid: e14fb028-98b7-71be-8c06-49be6dad3d55
 ---
 Lecture presentation on homeland security, federal budgets for homeland security, the promise of a consolidated Department of Homeland Security (DHS), progress toward the promise, what went wrong, and recommended remedies.
-

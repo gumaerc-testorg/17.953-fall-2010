@@ -5,6 +5,7 @@ file: /courses/17-953-u-s-budgets-for-national-security-fall-2010/45f0b94f9a0e7b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Budget Options Volume II, August 2009
 uid: 45f0b94f-9a0e-7b22-2f05-16fe600e9b4f
 ---
 Guidelines for a group project on US military budget and force planning.
-
